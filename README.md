@@ -51,3 +51,24 @@ Since the p-value of the t-test is greater than .05 we cannot reject the null hy
 ![Lot3_Ttest](https://user-images.githubusercontent.com/96347933/162588752-f372a3e8-b432-4ee8-9d22-90641f56c229.png)
 
 Lot 1 & 2 have a p-value that is more than .05 so we cannot reject the null hypothesis.  This indicates that both have a mean that is similar to the population.  Lot 3 has a p-value less than .05 at .04168 making it different that the population mean.
+
+## Study Design: MechaCar vs Competition
+
+To confirm that the MechaCar is successful, we will need to verify how it stands up to the other vehicles on the market.  To do so, we can create another study.
+
+# Metrics
+
+How fast the MechaCar warms up to a comfortable internal tempurature for passengers
+
+# Hypothesis
+
+Null: MechaCar can warm up to 72 degress as quickly as the 3 other top selling cars in its class in December in Minnesota.  Alternate: MechaCar cannot warm up as quickly as the 3 other top selling cars in its class in December in Minnesota.
+
+# Statistical Tests
+
+In order to accomplish this I would use linear regression and anova testing
+
+# Data
+
+Data needed would in manufacturer, time to warm, temperature 
+
