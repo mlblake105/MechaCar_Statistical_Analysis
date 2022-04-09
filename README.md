@@ -56,19 +56,19 @@ Lot 1 & 2 have a p-value that is more than .05 so we cannot reject the null hypo
 
 To confirm that the MechaCar is successful, we will need to verify how it stands up to the other vehicles on the market.  To do so, we can create another study.
 
-# Metrics
+### Metrics
 
 How fast the MechaCar warms up to a comfortable internal tempurature for passengers
 
-# Hypothesis
+### Hypothesis
 
 Null: MechaCar can warm up to 72 degress as quickly as the 3 other top selling cars in its class in December in Minnesota.  Alternate: MechaCar cannot warm up as quickly as the 3 other top selling cars in its class in December in Minnesota.
 
-# Statistical Tests
+### Statistical Tests
 
 In order to accomplish this I would use linear regression and anova testing
 
-# Data
+### Data
 
 Data needed would in manufacturer, time to warm, temperature 
 
