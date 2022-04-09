@@ -28,9 +28,11 @@ The linear model predicts mpg of MechaCar prototypes effectively because the r-s
 
 Based on the total summary stats of suspension coils the mean PSI is 1498.78, variance 62.29, and standard deviation 7.89.
 
-Lot 1 mean PSI 1500, variance .98, and standard deviation .99
-Lot 2 mean PSI 1500.20, variance 7.5, and standard deviation 2.73
-Lot 3 mean PSI 1496.14, variance 170.29, and standard deviation 13.05 *This lot has the highest variance and standard deviation which is impacting overall stats
+Lot 1 mean PSI 1500, variance .98, and standard deviation .99.
+
+Lot 2 mean PSI 1500.20, variance 7.5, and standard deviation 2.73.
+
+Lot 3 mean PSI 1496.14, variance 170.29, and standard deviation 13.05. *This lot has the highest variance and standard deviation which is impacting overall stats
 
 ## T-Tests on Suspension Coils
 
@@ -46,6 +48,6 @@ Since the p-value of the t-test is greater than .05 we cannot reject the null hy
 
 ![Lot2_Ttest](https://user-images.githubusercontent.com/96347933/162588746-83a977e2-dcb4-4eb8-874d-69d2c001fb17.png)
 
-Lot 1 & 2 have a p-value that is more than .05 so we cannot reject the null hypothesis.  This indicates that both have a mean that is similar to the population.  Lot 3 has a p-value less than .05 at .04168 making it different that the population mean.
 ![Lot3_Ttest](https://user-images.githubusercontent.com/96347933/162588752-f372a3e8-b432-4ee8-9d22-90641f56c229.png)
 
+Lot 1 & 2 have a p-value that is more than .05 so we cannot reject the null hypothesis.  This indicates that both have a mean that is similar to the population.  Lot 3 has a p-value less than .05 at .04168 making it different that the population mean.
